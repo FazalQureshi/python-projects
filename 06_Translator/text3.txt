@@ -1,0 +1,4 @@
+Google Brain is a deep learning artificial intelligence research team under the umbrella of Google AI, a research division at Google dedicated to artificial intelligence. 
+Formed in 2011, Google Brain combines open-ended machine learning research with information systems and large-scale computing resources.
+The team has created tools such as TensorFlow, which allow for neural networks to be used by the public, with multiple internal AI research projects. 
+The team aims to create research opportunities in machine learning and natural language processing.
